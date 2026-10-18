@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Statistical Machine Learning**, University College London (UCL), Department of Statistical Science. *2026 – present*
+  Funded by the EPSRC CDT in Collaborative Computational Modelling at the Interface (CCMI). Supervisor: François-Xavier Briol.
+* **M.Sc. in Mathematics**, Technical University of Munich (TUM). *2021 – 2024*
+  Final grade: 1.0 (with high distinction). Thesis: Stochastic Online Scheduling on Parallel Machines, supervised by Prof. Andreas S. Schulz.
+* **B.Sc. in Mathematics**, Sapienza University of Rome. *2018 – 2021*
+  Final grade: 110/110 cum laude.  Thesis: MCMC and Simulated Annealing, supervised by Prof. Elena Agliari.
+* **Scientific High School Diploma**, Liceo G.B. Morgagni, Rome. *2013 – 2018*
+  Final grade: 100/100 cum laude.
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Mathematical Consultant**, Smith Institute, Oxford. *Oct 2024 – Sep 2026*
+* **Student Research Assistant**, Fraunhofer IKS, Munich. *Jun 2023 – Dec 2023*
+  Reasoned AI for Healthcare group.
+* **Data & Analytics Intern**, Munich Re, Munich. *Aug 2022 – Dec 2022*
+* **Teaching Assistant**, Sapienza University of Rome. *Mar 2021 – Jul 2021*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Awards and Scholarships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **[Master's Thesis Award](https://www.cit.tum.de/en/cit/news/article/marta-piperno-prize-masters-thesis/)**, German Operations Research Society (GOR) - [News](https://www.gor-ev.de/auszeichnungen-der-gor/preis-fuer-diplom-und-masterarbeiten-der-gor). *2025*
+* **Women in CIT Diversity Award**, TUM. *Jul 2024*
+* **Deutschlandstipendium**, Federal Ministry of Education and Research. *Jan 2024 – Oct 2024*
+* **DAAD Scholarship**, German Academic Exchange Service. *Oct 2022 – Jan 2024*
+* **Bonus Esami Scholarship**, Sapienza University of Rome. *2020*
+* **Honours Program**, Sapienza University of Rome. *Jan 2020 – Jul 2021*
+
+Volunteering
+======
+* **Women in Computer Science**, TUM. Co-organised internal and external events promoting equitable participation of underrepresented groups in Computer Science and STEM.
+* **Student Faculty Representative**, Sapienza University of Rome.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+<ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
