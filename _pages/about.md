@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student in the Department of Statistical Science at University College London (UCL), funded through the EPSRC CDT in [Collaborative Computational Modelling at the Interface](https://ccmi-cdt.org/). I am part of the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) group and am supervised by [François-Xavier Briol](https://fxbriol.github.io/). My current research focuses on simulation-based inference and predictively-oriented inference.
+I am a first-year PhD student in the Department of Statistical Science at University College London (UCL), funded through the EPSRC CDT in [Collaborative Computational Modelling at the Interface](https://ccmi-cdt.org/). I am part of the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) group. I am supervised by [François-Xavier Briol](https://fxbriol.github.io/). My current research focuses on simulation-based inference and predictively-oriented inference.
 
 
 # Background
