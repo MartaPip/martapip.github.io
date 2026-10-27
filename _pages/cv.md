@@ -13,7 +13,6 @@ Education
 ======
 * **Ph.D. in Statistical Machine Learning**, UCL, Department of Statistical Science. *2026 – present*\
   Funded by the EPSRC CDT in Collaborative Computational Modelling at the Interface (CCMI).\
-  Supervisor: François-Xavier Briol.
 * **M.Sc. in Mathematics**, Technical University of Munich (TUM). *2021 – 2024*\
   Final grade: 1.0 (with high distinction).\
   Thesis: Stochastic Online Scheduling on Parallel Machines, supervised by Prof. Andreas S. Schulz.
@@ -36,7 +35,7 @@ Awards and Scholarships
 * **Women in CIT Diversity Award**, TUM. *Jul 2024*
 * **Deutschlandstipendium**, Federal Ministry of Education and Research. *Jan 2024 – Oct 2024*
 * **DAAD Scholarship**, German Academic Exchange Service. *Oct 2022 – Jan 2024*
-* **Bonus Esami Scholarship**, Sapienza University of Rome. *2020*
+* **Bonus Esami Scholarship**, Sapienza University of Rome. *2020 - 2021*
 * **Honours Program**, Sapienza University of Rome. *Jan 2020 – Jul 2021*
 
 Volunteering
