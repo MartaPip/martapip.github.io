@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Statistical Machine Learning**, UCL, Department of Statistical Science. *2026 – present*\
-  Funded by the EPSRC CDT in Collaborative Computational Modelling at the Interface (CCMI).\
+  Funded by the EPSRC CDT in Collaborative Computational Modelling at the Interface (CCMI).
 * **M.Sc. in Mathematics**, Technical University of Munich (TUM). *2021 – 2024*\
   Final grade: 1.0 (with high distinction).\
   Thesis: Stochastic Online Scheduling on Parallel Machines, supervised by Prof. Andreas S. Schulz.
